@@ -1,0 +1,14 @@
+.mainHeader{
+        background-color: lightgreen;
+        font-size: 32px;
+        margin-left: 100px;
+        width: 400px;
+}
+
+.mainRow{
+    background-color: lightblue;
+    font-size: 16px;
+    margin-left: 100px;
+    width: 400px;
+    text-align: center;
+}
